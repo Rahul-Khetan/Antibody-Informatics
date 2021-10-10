@@ -1,3 +1,3 @@
 # Antibody-Informatics
 PhD project Github repository
-#antibody-sequences #developability
+Contact Rahul Khetan at rahul.khetan@manchester.ac.uk for collaboration
